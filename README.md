@@ -68,8 +68,8 @@ A professional voice translation application built with Streamlit that supports 
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
-cd voice-translator
+git clone https://github.com/kusetti143/Voice-Translator-Pro
+cd Voice-Translator-Pro
 ```
 
 2. **Install dependencies:**
