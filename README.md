@@ -320,4 +320,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ using Streamlit, OpenAI Whisper, HuggingFace Transformers, Google Services, and advanced audio processing**
+
